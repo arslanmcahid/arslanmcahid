@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arslanmcahid
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C, C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "
 
